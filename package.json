@@ -1,0 +1,12 @@
+{
+  "name": "net.bobbo.being-entity",
+  "version": "0.0.1",
+  "displayName": "Bobbo-Net Being Entity",
+  "author": {
+    "name": "BOBBO-NET",
+    "url": "https://bobbo.net"
+  },
+  "dependencies": {
+    "com.svermeulen.extenject": "9.2.0"
+  }
+}

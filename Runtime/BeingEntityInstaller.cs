@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.Engine
+namespace BobboNet
 {
     [CreateAssetMenu(fileName = "BeingEntityInstaller", menuName = "Installers/BeingEntityInstaller")]
     public class BeingEntityInstaller : ScriptableObjectInstaller<BeingEntityInstaller>

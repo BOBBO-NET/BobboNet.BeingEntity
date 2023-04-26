@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
 
-namespace BobboNet.Engine
+namespace BobboNet
 {
     public class BeingEntity : MonoBehaviour
     {
